@@ -23,9 +23,11 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Ela-Byte&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Andy Cano's GitHub Trophies" />
 </p>
+<!--
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ela-Byte&theme=highcontrast&radius=10" alt="Ela-Byte's Activity Graph" />
 </p>
+-->
 
 
 ## 🛠️ Languages & Tools
